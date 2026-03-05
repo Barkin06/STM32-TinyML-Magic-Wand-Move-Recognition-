@@ -18,3 +18,7 @@ Proje dizininde yer alan Core/ klasörü uygulamanın ana mantığını ve infer
 Model Performansı ve Doğrulama
 
 Eğitim sürecinde toplanan veriler, modelin genelleme yeteneğini ölçmek amacıyla eğitim ve test setleri olarak ikiye ayrılmıştır. Yapılan optimizasyonlar sonucunda, modelin daha önce görmediği veriler üzerindeki başarı oranını temsil eden Test Doğruluğu (Test Accuracy) %78 olarak kaydedilmiştir. Bu oran, kısıtlı donanım kaynaklarına sahip bir mikrodenetleyici üzerinde çalışan bir sınıflandırma modeli için oldukça tatmin edici bir seviyededir. Eğitim setinde elde edilen yüksek doğruluk oranları ile test sonuçları arasındaki bu denge, modelin "overfitting" (aşırı öğrenme) riskinden uzak, kararlı bir yapıda olduğunu ve gerçek dünya senaryolarında farklı açılardan gelen hareketleri başarıyla ayırt edebildiğini kanıtlamaktadır.
+
+
+https://github.com/user-attachments/assets/ece3ec45-4d05-4a39-bfbf-6ee75dca95ad
+
